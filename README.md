@@ -9,9 +9,9 @@ Harvey is a starter theme that I built that integrates the Twitter Bootstrap Fra
 
 &nbsp;
 
-The thing about Harvey is that since it uses the _s theme from Automattic (the guys responsible for WordPress) it means it is built using the best WordPress coding standards. Also since it is very minimalistic and barebones it can be a great starting point  for anyone who's first stepping into theme development as well as for the experienced user for quick development.
+The thing about Harvey is that since it uses the _s theme from Automattic (the guys responsible for WordPress) it's built using the best WordPress coding standards. Also since it is very minimalist and barebones it can be a great starting point  for anyone who's first stepping into theme development as well as for the experienced user for quick development.
 
-You can view the demo <a title="Harvey Theme" href="http://demos.wpup.co/harvey/" target="_blank">here</a>. Also check out one the child themes <a title="Everest - Harvey Child Theme" href="http://demos.wpup.co/harvey-child/" target="_blank">here</a>.
+You can view the demo <a title="Harvey Theme" href="http://demos.wpup.co/harvey/" target="_blank">here</a>. Also check out one of the child themes <a title="Everest - Harvey Child Theme" href="http://demos.wpup.co/harvey-child/" target="_blank">here</a>.
 
 You can download it and test it out yourself on github <a title="Harvey Theme on Github" href="https://github.com/bandid/harvey" target="_blank">here</a>.
 
