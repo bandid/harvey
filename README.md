@@ -5,7 +5,7 @@ Introducing Harvey: A WordPress Bootstrap Starter Theme
 
 Harvey is a starter theme that I built that integrates the Twitter Bootstrap Framework with the _s theme from Automattic. I love Bootstrap and WordPress and in the past I’ve played around with a couple of starter themes and frameworks that integrate both. The problem with using other people’s frameworks and themes is having to learn someone else’s code, plus you can never really fully understand the code unless you built it yourself. That is why I decided to built my own starter theme from scratch, which would also serves as a base and framework for my other WordPress/Bootstrap projects.
 
-<a href="http://www.wpup.co/wp-content/uploads/2014/09/screenshot.png"><img src="http://www.wpup.co/wp-content/uploads/2014/09/screenshot.png" alt="screenshot" width="880" height="660" /></a>
+<img src="http://www.wpup.co/wp-content/uploads/2014/09/screenshot.png" alt="screenshot" width="880" height="660" />
 
 &nbsp;
 
