@@ -7,6 +7,4 @@ Harvey is a starter theme that I built that integrates the Twitter Bootstrap Fra
 
 The thing about Harvey is that since it uses the _s theme from Automattic (the guys responsible for WordPress) it's built using the best WordPress coding standards. Also since it is very minimalist and barebones it can be a great starting point  for anyone who's first stepping into theme development as well as for the experienced user for quick development.
 
-You can download it and test it out yourself on github.
-
-It's free!!
+You can download it and test it out yourself on github. It's free!!
