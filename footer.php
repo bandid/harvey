@@ -23,7 +23,7 @@
 					<?php do_action( 'Harvey_credits' ); ?>
 					<a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', '_tk' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'Harvey' ), 'WordPress' ); ?></a>
 					<span class="sep"> | </span>
-					<?php printf( __( 'Theme: %1$s by %2$s.', 'Harvey' ), 'Harvey', '<a href="http://wpup.co/" rel="designer">wpup</a>' ); ?>
+					<?php printf( __( 'Theme: %1$s by %2$s.', 'Harvey' ), 'Harvey', '<a href="#" rel="designer">Dan B</a>' ); ?>
 				</div><!-- close .site-info -->
 
 			</div>
